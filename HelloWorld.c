@@ -1,6 +1,9 @@
-void main(){
+#include <stdio.h>
+
+int main(){
     printf("Hello World!");
     printf("My name is Kazuma");
 
-    return;
+    return 0;
+
 }
